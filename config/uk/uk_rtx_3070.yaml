@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 0.10 # seconds
 max_price: 650 # GBP
 urls:
   - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3060+Ti/Zotac+NVIDIA+GeForce+RTX+3070+8GB+Twin+Edge+OC+White+Edition+Ampere+Graphics+Card?productId=73071
