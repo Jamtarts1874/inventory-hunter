@@ -1,5 +1,5 @@
 ---
-refresh_interval: 1 # seconds
+refresh_interval: 0.25 # seconds
 max_price: 550 # GBP
 urls:
   - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3060+Ti/Palit+GeForce+RTX+3060+Ti+Dual+OC+8GB+GPU?productId=73055
