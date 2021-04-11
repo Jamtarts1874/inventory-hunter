@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 0.10 # seconds
 max_price: 1000 # GBP
 urls:
   - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3080/Gigabyte+NVIDIA+GeForce+RTX+3080+10GB+EAGLE+OC+Ampere+Graphics+Card?productId=72770
