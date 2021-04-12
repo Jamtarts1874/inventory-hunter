@@ -1,6 +1,6 @@
 ---
 refresh_interval: 0.10 # seconds
-max_price: 550 # GBP
+max_price: 600 # GBP
 urls:
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3060-ti-gaming-x-trio-8gb-gddr6-graphics-card/rtx3060tigamingxtrio.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-gaming-oc-graphics-card-10219305-pdt.html
@@ -12,7 +12,10 @@ urls:
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3060-ti-8-gb-dual-oc-graphics-card-10219255-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-eagle-oc-graphics-card-10219306-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/pny-geforce-rtx-3060-ti-8-gb-xlr8-gaming-revel-edition-graphics-card-10218694-pdt.html
-  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/processors/amd-ryzen-5-3600-processor-10194811-pdt.html
+  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3060-ti-8-gb-gaming-x-trio-graphics-card-10219250-pdt.html
+  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-aorus-master-graphics-card-10219303-pdt.html
+  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3060-ti-8-gb-tuf-gaming-oc-graphics-card-10219254-pdt.html
+  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3060-ti-8-gb-rog-strix-gaming-graphics-card-10219258-pdt.html
   - https://www.aria.co.uk/SuperSpecials/Other+products/MSI+MPG+Intel+Z390+GAMING+PLUS+9th+Gen+ATX+Motherboard?productId=70425
   - https://www.amazon.co.uk/MSI-GEFORCE-Graphics-1770MHz-DisplayPort/dp/B08VH7BD47
   - https://www.amazon.co.uk/GIGABYTE-GeForce-Graphics-WINDFORCE-GV-N306TGAMINGOC/dp/B08NYPLXPJ
