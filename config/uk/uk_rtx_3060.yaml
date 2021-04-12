@@ -2,7 +2,7 @@
 refresh_interval: 0.10 # seconds
 max_price: 570 # GBP
 urls:
- - https://www.amazon.co.uk/Gigabyte-GeForce-3060-GAMING-Graphics/dp/B08WB6R2K
+ - https://www.amazon.co.uk/Gigabyte-GeForce-3060-GAMING-Graphics/dp/B08WB6R2K4
  - https://www.amazon.co.uk/MSI-GeForce-Graphics-1852MHz-DisplayPort/dp/B08WH4RK2C
  - https://www.amazon.co.uk/MSI-GEFORCE-Graphics-1837MHz-DisplayPort/dp/B08WHML7GL
  - https://www.amazon.co.uk/Gigabyte-AORUS-GeForce-ELITE-Graphics/dp/B08WS5X6F5
