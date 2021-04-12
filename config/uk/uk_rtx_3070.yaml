@@ -2,18 +2,10 @@
 refresh_interval: 0.10 # seconds
 max_price: 650 # GBP
 urls:
-  - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3060+Ti/Zotac+NVIDIA+GeForce+RTX+3070+8GB+Twin+Edge+OC+White+Edition+Ampere+Graphics+Card?productId=73071
-  - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3070/Palit+NVIDIA+GeForce+RTX+3070+8GB+GamingPro+Ampere+Graphics+Card?productId=72849
-  - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3070/ASUS+NVIDIA+GeForce+RTX+3070+8GB+TUF+GAMING+OC+Ampere+Graphics+Card?productId=72939
-  - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3070/ASUS+NVIDIA+GeForce+RTX+3070+8GB+ROG+Strix+Ampere+Graphics+Card?productId=72937
-  - https://www.aria.co.uk/Products/Components/Graphics+Cards/NVIDIA+GeForce/GeForce+RTX+3070/ASUS+NVIDIA+GeForce+RTX+3070+8GB+ROG+Strix+OC+Ampere+Graphics+Card?productId=72936
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-suprim-x-8gb-gddr6-graphics-card/rtx30708gbsuprimx8g.html
   - https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3070-dual-oc-8gb-gddr6-graphics-card/dual-rtx3070-o8g.html
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-gaming-x-trio-8gb-gddr6-graphics-card/rtx3070gamingxtrio.html
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-ventus-2x-oc-8gb-gddr6-graphics-card/rtx3070ventus2xoc.html
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-ventus-3x-oc-8gb-gddr6-graphics-card/rtx3070ventus3xoc.html
-  - https://www.aria.co.uk/SuperSpecials/Other+products/Intel+Octa+Core+i7+10700K+Comet+Lake+CPU%2FProcessor+?productId=72514
-  - https://www.aria.co.uk/Products/Components/Processors/Intel+CPUs/Core+i7+-+Socket+1200+Comet/Intel+Octa+Core+i7+10700K+Comet+Lake+CPU%2FProcessor+?productId=72514
-  - https://www.aria.co.uk/Products/Components/Processors/AMD+CPUs/Ryzen+5+-+Socket+AM4/AMD+Ryzen+5+2600+Gen2+6+Core+AM4+CPU%2FProcessor+with+Wraith+Stealth+Cooler?productId=69471
   - https://www.novatech.co.uk/products/11th-generation-intel-core-i5-11600kf-3-90ghz-socket-lga1200-cpuprocessor/bx8070811600kf.html
 ...
