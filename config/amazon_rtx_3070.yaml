@@ -1,9 +1,6 @@
 ---
-refresh_interval: 0.5 # seconds
+refresh_interval: 2 # seconds
 max_price: 650 # dollars/euros/etc
 urls:
   - https://www.amazon.co.uk/Gigabyte-GeForce-3070-GAMING-Graphics/dp/B08KHL21CV
-  - https://www.amazon.co.uk/Corsair-Vengeance-Enthusiast-Illuminated-Memory/dp/B07D1XCKWW
-  - https://www.amazon.co.uk/KLEVV-DDR4-3200-Gaming-Desktop-Computer/dp/B082414XGV
-  - https://www.amazon.co.uk/ZOTAC-GAMING-GEFORCE-White-Graphics/dp/B08P7ZKQPP
 ...
