@@ -1,16 +1,7 @@
 ---
-refresh_interval: 1 # seconds
+refresh_interval: 0.1 # seconds
 max_price: 570 # GBP
 urls:
- - https://www.amazon.co.uk/Gigabyte-GeForce-3060-GAMING-Graphics/dp/B08WB6R2K4
- - https://www.amazon.co.uk/MSI-GeForce-Graphics-1852MHz-DisplayPort/dp/B08WH4RK2C
- - https://www.amazon.co.uk/MSI-GEFORCE-Graphics-1837MHz-DisplayPort/dp/B08WHML7GL
- - https://www.amazon.co.uk/Gigabyte-AORUS-GeForce-ELITE-Graphics/dp/B08WS5X6F5
- - https://www.amazon.co.uk/Gigabyte-GeForce-3060-EAGLE-Graphics/dp/B08WBB3ZMJ
- - https://www.amazon.co.uk/Gigabyte-GeForce-3060-VISION-Graphics/dp/B08WBB7KXV
- - https://www.amazon.co.uk/PNY-GeForce-Gaming-EPIC-X-Graphics/dp/B08WRQ3JR1
- - https://www.amazon.co.uk/MSI-GeForce-VENTUS-Gaming-Graphics/dp/B08WRP83LN
- - https://www.amazon.co.uk/GeForce-192-bit-Graphics-IceStorm-ZT-A30600H-10M/dp/B08W8DGK3X
  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3060-12-gb-gaming-x-graphics-card-10220978-pdt.html
  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3060-12-gb-ventus-2x-graphics-card-10221051-pdt.html
  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3060-12-gb-ventus-3x-oc-graphics-card-10220976-pdt.html
