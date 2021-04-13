@@ -1,5 +1,5 @@
 ---
-refresh_interval: 1 # seconds
+refresh_interval: 0.1 # seconds
 max_price: 1999 # GBP
 urls:
   - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3090-turbo-24gb-gddr6x-graphics-card/gv-n3090turbo-24gd.html
@@ -37,16 +37,6 @@ urls:
   - https://www.scan.co.uk/products/evga-nvidia-geforce-rtx-3090-ftw3-gaming-24gb-gddr6x-ray-tracing-graphics-card-10496-core-1395mhz-gp
   - https://www.scan.co.uk/products/gigabyte-aorus-nvidia-geforce-rtx-3090-xtreme-24gb-gddr6x-ray-tracing-graphics-card-10496-core-1410m
   - https://www.scan.co.uk/products/pny-nvidia-geforce-rtx-3090-epic-x-rgb-xlr8-24gb-gddr6x-ray-tracing-graphics-card-10496-core-1395mhz
-  - https://www.amazon.co.uk/MSI-GeForce-SUPRIM-Gaming-Graphics/dp/B08LTJVGYS
-  - https://www.amazon.co.uk/GeForce-RTX-3090-Founders-Graphics/dp/B08HR6ZBYJ
-  - https://www.amazon.co.uk/Gigabyte-AORUS-GeForce-MASTER-Graphics/dp/B08KH7R4FQ
-  - https://www.amazon.co.uk/MSI-GeForce-3090-Gaming-Trio/dp/B08HM6D7TM
-  - https://www.amazon.co.uk/Gigabyte-GeForce-3090-VISION-Graphics/dp/B08MDC8J27
-  - https://www.amazon.co.uk/Gigabyte-GeForce-GAMING-GDDR6X-Graphics/dp/B08HLYQ9XL
-  - https://www.amazon.co.uk/ASUS-Graphics-reliability-performance-TUF-RTX3090-24G-GAMING/dp/B08HN4FLFJ
-  - https://www.amazon.co.uk/ASUS-Graphics-Axial-tech-pressure-ROG-STRIX-RTX3090-24G-GAMING/dp/B08HN642LY
-  - https://www.amazon.co.uk/PNY-GeForce-Gaming-EPIC-X-Graphics/dp/B08HBQWBHH
-  - https://www.amazon.co.uk/EVGA-GeForce-24G-P5-3975-KR-Cooling-Backplate/dp/B08HGTNDL4
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3090-24-gb-rog-strix-gaming-oc-graphics-card-10214887-pdt.html # £1850
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3090-24-gb-gaming-oc-graphics-card-10214422-pdt.html # £1700
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3090-24-gb-rog-strix-gaming-oc-graphics-card-white-10220875-pdt.html # £1850
