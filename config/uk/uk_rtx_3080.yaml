@@ -1,5 +1,5 @@
 ---
-refresh_interval: 0.10 # seconds
+refresh_interval: 1 # seconds
 max_price: 1100 # GBP
 urls:
   - https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-gddr6x-graphics-card/rog-strix-rtx3080-o10g-gaming.html
