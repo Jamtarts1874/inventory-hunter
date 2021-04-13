@@ -1,5 +1,5 @@
 ---
-refresh_interval: 0.10 # seconds
+refresh_interval: 1 # seconds
 max_price: 770 # GBP
 urls:
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-suprim-x-8gb-gddr6-graphics-card/rtx30708gbsuprimx8g.html
