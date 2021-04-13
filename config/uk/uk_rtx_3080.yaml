@@ -1,5 +1,5 @@
 ---
-refresh_interval: 1 # seconds
+refresh_interval: 0.1 # seconds
 max_price: 1100 # GBP
 urls:
   - https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-gddr6x-graphics-card/rog-strix-rtx3080-o10g-gaming.html
@@ -13,7 +13,6 @@ urls:
   - https://www.novatech.co.uk/products/palit-nvidia-geforce-rtx-3080-gaming-pro-10gb-gddr6x-graphics-card/ned3080019ia-132aa.html
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3080-gaming-x-trio-10gb-gddr6x-graphics-card/3080gamingxtrio10g.html
   - https://www.novatech.co.uk/products/palit-nvidia-geforce-rtx-3080-gaming-pro-oc-10gb-gddr6x-graphics-card/ned3080s19ia-132aa.html
-  - https://www.amazon.co.uk/Gigabyte-GeForce-Graphics-GV-N3080GAMING-OC-10GD/dp/B08HLZXHZY
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3080-10-gb-tuf-gaming-graphics-card-10214421-pdt.html # £720
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3080-10-gb-tuf-gaming-oc-graphics-card-10214446-pdt.html # £790
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3080-10-gb-eagle-graphics-card-10219688-pdt.html # £750
