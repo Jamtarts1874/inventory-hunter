@@ -1,5 +1,5 @@
 ---
-refresh_interval: 0.10 # seconds
+refresh_interval: 1 # seconds
 max_price: 600 # GBP
 urls:
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3060-ti-gaming-x-trio-8gb-gddr6-graphics-card/rtx3060tigamingxtrio.html
