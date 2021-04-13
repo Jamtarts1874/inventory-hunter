@@ -1,5 +1,5 @@
 ---
-refresh_interval: 0.1 # seconds
+refresh_interval: 0.10 # seconds
 max_price: 1999 # GBP
 urls:
   - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3090-turbo-24gb-gddr6x-graphics-card/gv-n3090turbo-24gd.html
