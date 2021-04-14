@@ -2,7 +2,6 @@
 refresh_interval: 0.1 # seconds
 max_price: 600 # GBP
 urls:
-  - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3060-ti-gaming-x-trio-8gb-gddr6-graphics-card/rtx3060tigamingxtrio.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-gaming-oc-graphics-card-10219305-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-vision-oc-graphics-card-10221313-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-gaming-oc-pro-graphics-card-10219304-pdt.html
