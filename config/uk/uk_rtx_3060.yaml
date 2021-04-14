@@ -2,6 +2,7 @@
 refresh_interval: 0.1 # seconds
 max_price: 570 # GBP
 urls:
+ - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3060-gaming-x-trio-12gb-gddr6-graphics-card/rtx3060gamingxtrio12g.html
  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3060-12-gb-gaming-x-graphics-card-10220978-pdt.html
  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3060-12-gb-ventus-2x-graphics-card-10221051-pdt.html
  - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3060-12-gb-ventus-3x-oc-graphics-card-10220976-pdt.html
