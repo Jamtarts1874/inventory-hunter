@@ -2,15 +2,8 @@
 refresh_interval: 0.1 # seconds
 max_price: 1999 # GBP
 urls:
-  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3090-turbo-24gb-gddr6x-graphics-card/gv-n3090turbo-24gd.html
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3090-ventus-3x-oc-24gb-gddr6x-graphics-card/rtx3090ventus3x24goc.html
-  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3090-vision-oc-24gb-gddr6x-graphics-card/gv-n3090visionoc-24gd.html
   - https://www.novatech.co.uk/products/zotac-nvidia-geforce-rtx-3090-trinity-gaming-24gb-gddr6x-graphics-card/zt-a30900d-10p.html
-  - https://www.novatech.co.uk/products/evga-nvidia-geforce-rtx-3090-ftw3-ultra-gaming-24gb-gddr6x-graphics-card/24g-p5-3987-kr.html
-  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3090-aorus-master-24gb-gddr6x-graphics-card/gv-n3090aorusm-24gd.html
-  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3090-aorus-xtreme-24gb-gddr6x-graphics-card/gv-n3090aorusx-24gd.html
-  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3090-gaming-oc-24gb-gddr6x-graphics-card/gv-n3090gamingoc-24gd.html
-  - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3090-gaming-x-trio-24gb-gddr6x-graphics-card/rtx3090gamingxtrio24g.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3090-24-gb-rog-strix-gaming-oc-graphics-card-10214887-pdt.html # £1850
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3090-24-gb-gaming-oc-graphics-card-10214422-pdt.html # £1700
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3090-24-gb-rog-strix-gaming-oc-graphics-card-white-10220875-pdt.html # £1850
