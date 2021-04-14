@@ -2,11 +2,7 @@
 refresh_interval: 0.1 # seconds
 max_price: 770 # GBP
 urls:
-  - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-suprim-x-8gb-gddr6-graphics-card/rtx30708gbsuprimx8g.html
-  - https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3070-dual-oc-8gb-gddr6-graphics-card/dual-rtx3070-o8g.html
-  - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-gaming-x-trio-8gb-gddr6-graphics-card/rtx3070gamingxtrio.html
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-ventus-2x-oc-8gb-gddr6-graphics-card/rtx3070ventus2xoc.html
-  - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3070-ventus-3x-oc-8gb-gddr6-graphics-card/rtx3070ventus3xoc.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3070-8-gb-eagle-graphics-card-10217336-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3070-8-gb-dual-graphics-card-10215777-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/msi-geforce-rtx-3070-8-gb-ventus-2x-oc-graphics-card-10217083-pdt.html
