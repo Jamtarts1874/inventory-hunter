@@ -2,16 +2,12 @@
 refresh_interval: 0.1 # seconds
 max_price: 1100 # GBP
 urls:
-  - https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-gddr6x-graphics-card/rog-strix-rtx3080-o10g-gaming.html
   - https://www.novatech.co.uk/products/asus-nvidia-geforce-rtx-3080-tuf-gaming-oc-10gb-gddr6x-graphics-card/tuf-rtx3080-o10g-gaming.html
-  - https://www.novatech.co.uk/products/evga-nvidia-geforce-rtx-3080-ftw3-ultra-gaming-10gb-gddr6x-graphics-card/10g-p5-3897-kr.html
-  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3080-aorus-xtreme-10gb-gddr6x-graphics-card/gv-n3080aorusx-10gd.html
   - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3080-eagle-oc-10gb-gddr6x-graphics-card/gv-n3080eagleoc-10gd.html
   - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3080-gaming-oc-10gb-gddr6x-graphics-card/gv-n3080gamingoc-10gd.html
   - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3080-vision-oc-10gb-gddr6x-graphics-card/gv-n3080visionoc-10gd.html
   - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3080-ventus-3x-oc-10gb-gddr6x-graphics-card/3080ventus3x10goc.html
   - https://www.novatech.co.uk/products/palit-nvidia-geforce-rtx-3080-gaming-pro-10gb-gddr6x-graphics-card/ned3080019ia-132aa.html
-  - https://www.novatech.co.uk/products/msi-nvidia-geforce-rtx-3080-gaming-x-trio-10gb-gddr6x-graphics-card/3080gamingxtrio10g.html
   - https://www.novatech.co.uk/products/palit-nvidia-geforce-rtx-3080-gaming-pro-oc-10gb-gddr6x-graphics-card/ned3080s19ia-132aa.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3080-10-gb-tuf-gaming-graphics-card-10214421-pdt.html # £720
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3080-10-gb-tuf-gaming-oc-graphics-card-10214446-pdt.html # £790
