@@ -1,5 +1,5 @@
 ---
-refresh_interval: 60 # seconds
+refresh_interval: 0.5 # seconds
 max_price: 600 # GBP
 urls:
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-gaming-oc-graphics-card-10219305-pdt.html
@@ -15,33 +15,6 @@ urls:
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-aorus-master-graphics-card-10219303-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3060-ti-8-gb-tuf-gaming-oc-graphics-card-10219254-pdt.html
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3060-ti-8-gb-rog-strix-gaming-graphics-card-10219258-pdt.html
-  - https://www.scan.co.uk/products/nda-2-12-2pm-evga-nvidia-geforce-rtx-3060-ti-ftw3-ultra-8gb-gddr6-graphics-card
-  - https://www.scan.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-gaming-oc-pro-8gb-gddr6-ray-tracing-graphics-card-4864-core-1770
-  - https://www.scan.co.uk/products/asus-nvidia-geforce-rtx-3060-ti-dual-oc-8gb-gddr6-ray-tracing-graphics-card-4864-core
-  - https://www.scan.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-eagle-8gb-gddr6-ray-tracing-graphics-card-4864-core
-  - https://www.scan.co.uk/products/evga-nvidia-geforce-rtx-3060-ti-xc-gaming-8gb-gddr6-ray-tracing-graphics-card-4864-core-1410mhz-gpu
-  - https://www.scan.co.uk/products/zotac-nvidia-geforce-rtx-3060-ti-twin-edge-oc-8gb-gddr6-ray-tracing-graphics-card-4864-cores
-  - https://www.scan.co.uk/products/pny-nvidia-geforce-rtx-3060-ti-uprising-dual-fan-8gb-gddr6-ray-tracing-graphics-card-4864-core-1410m
-  - https://www.scan.co.uk/products/pny-nvidia-geforce-rtx-3060-ti-xlr8-revel-epic-x-8gb-gddr6-ray-tracing-graphics-card-4864core-1410mh
-  - https://www.scan.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-eagle-oc-8gb-gddr6-ray-tracing-graphics-card-4864core-1695mhz-bo
-  - https://www.scan.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-gaming-oc-8gb-gddr6-ray-tracing-graphics-card-4864-core-1740mhz
-  - https://www.scan.co.uk/products/msi-nvidia-geforce-rtx-3060-ti-ventus-2x-oc-8gb-gddr6-ray-tracing-graphics-card-4864-core-1695mhz-bo
-  - https://www.scan.co.uk/products/nda-2-12-2pm-palit-nvidia-geforce-rtx-3060-ti-dual-8gb-gddr6-graphics-card
-  - https://www.scan.co.uk/products/msi-nvidia-geforce-rtx-3060-ti-gaming-x-8gb-gddr6-ray-tracing-graphics-card-4864-core-1410mhz-gpu-17
-  - https://www.scan.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-vision-oc-8gb-gddr6-ray-tracing-graphics-card-4864-core-1410mhz
-  - https://www.scan.co.uk/products/msi-nvidia-geforce-rtx-3060-ti-ventus-3x-oc-8gb-gddr6-ray-tracing-graphics-card-4864-core-1695mhz-bo
-  - https://www.scan.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-gaming-oc-pro-v2-8gb-gddr6-ray-tracing-graphics-card-4864-core-1
-  - https://www.scan.co.uk/products/nda-02-12-2pmpalit-nvidia-geforce-rtx3060ti-dual-oc-ampere-graphics-card
-  - https://www.scan.co.uk/products/msi-nvidia-geforce-rtx-3060-ti-gaming-x-trio-8gb-gddr6-ray-tracing-graphics-card-4864-core-1830mhz-b
-  - https://www.scan.co.uk/products/asus-nvidia-geforce-rtx-3060-ti-dual-8gb-gddr6-ray-tracing-graphics-card-4864-core
-  - https://www.scan.co.uk/products/nda-2-12-2pmpalit-nvidia-geforce-rtx-3060ti-8gb-gamingpro-ampere-graphics-card
-  - https://www.scan.co.uk/products/asus-nvidia-geforce-rtx-3060-ti-tuf-gaming-8gb-gddr6-ray-tracing-graphics-card-4864-core-1410mhz-gpu
-  - https://www.scan.co.uk/products/palit-nvidia-geforce-rtx-3060-ti-gamingpro-oc-8gb-gddr6-ray-tracing-graphics-card-4864core-1410mhz-g
-  - https://www.scan.co.uk/products/gigabyte-aorus-nvidia-geforce-rtx-3060-ti-master-8gb-gddr6-ray-tracing-graphics-card-4864-core-1800m
-  - https://www.scan.co.uk/products/nda-2-12-2pm-evga-nvidia-geforce-rtx-3060-ti-ftw3-8gb-gddr6-graphics-card
-  - https://www.scan.co.uk/products/asus-nvidia-geforce-rtx-3060-ti-tuf-gaming-oc-8gb-gddr6-ray-tracing-graphics-card-4864-core
-  - https://www.scan.co.uk/products/asus-nvidia-geforce-rtx-3060-ti-rog-strix-8gb-gddr6-ray-tracing-graphics-card-4864-core-1410mhz-gpu
-  - https://www.scan.co.uk/products/asus-nvidia-geforce-rtx-3060-ti-rog-strix-oc-8gb-gddr6-ray-tracing-graphics-card-4864-core
   - https://www.ebuyer.com/1129487-zotac-geforce-rtx-3060-ti-8gb-twin-edge-oc-ampere-graphics-zt-a30610h-10m
   - https://www.ebuyer.com/1134061-palit-geforce-rtx-3060-ti-8gb-gamingpro-ampere-graphics-card-ne6306t019p2-1041a
   - https://www.ebuyer.com/1134071-msi-geforce-rtx-3060-ti-8gb-ventus-2x-oc-ampere-graphics-card-rtx-3060-ti-ventus-2x-oc
