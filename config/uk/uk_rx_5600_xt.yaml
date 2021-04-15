@@ -2,5 +2,5 @@
 refresh_interval: 2 # seconds
 max_price: 900 # GBP
 urls:
-
+- https://www.ebuyer.com/951044-msi-radeon-rx-5600-xt-mech-oc-6gb-14gbps-graphics-card-rx-5600-xt-mech-oc
 ...
