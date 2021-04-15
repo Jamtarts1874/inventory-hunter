@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 0.1 # seconds
 max_price: 900 # GBP
 urls:
 - https://www.ebuyer.com/937375-asus-radeon-rx-5500-xt-dual-evo-oc-8gb-graphics-card-dual-rx5500xt-o8g-evo
