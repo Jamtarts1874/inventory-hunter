@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 0.1 # seconds
 max_price: 900 # GBP
 urls:
 - https://www.ebuyer.com/909939-msi-radeon-rx-5700-xt-mech-oc-8gb-graphics-card-rx-5700-xt-mech-oc
