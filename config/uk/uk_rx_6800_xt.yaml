@@ -1,7 +1,25 @@
----
+--- # 65 MH/S - MSRP £599.99
 refresh_interval: 2 # seconds
 max_price: 900 # GBP
 urls:
 - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-radeon-rx-6800-xt-16-gb-gaming-oc-graphics-card-10219248-pdt.html # £774
 - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-radeon-rx-6800-xt-16-gb-aorus-master-graphics-card-10220728-pdt.html # £785
+- https://www.ebuyer.com/1134382-gigabyte-radeon-rx-6800xt-16gb-gaming-oc-graphics-card-gv-r68xtgaming-oc-16gd
+- https://www.ebuyer.com/1138504-asrock-radeon-rx-6800-xt-16gb-graphics-card-90-ga2czz-00uanf
+- https://www.ebuyer.com/1138784-gigabyte-radeon-rx-6800xt-16gb-aorus-master-type-c-graphics-card-gv-r68xtaorus-m-16gc
+- https://www.ebuyer.com/1139104-xfx-radeon-rx-6800-xt-merc319-16gb-graphics-card-rx-68xtalfd9
+- https://www.ebuyer.com/1128772-powercolor-radeon-rx-6800-xt-16gb-graphics-card-axrx-6800xt-16gbd6-m2dhc
+- https://www.ebuyer.com/1129448-msi-radeon-rx-6800-xt-16gb-graphics-card-rx-6800-xt-16g
+- https://www.ebuyer.com/1134038-sapphire-nitro-radeon-rx-6800-xt-oc-se-16gb-graphics-card-11304-01-20g
+- https://www.ebuyer.com/1134062-powercolor-radeon-rx-6800-xt-16gb-red-devil-graphics-card-axrx-6800xt-16gbd6-3dhe-oc
+- https://www.ebuyer.com/1134212-powercolor-radeon-rx-6800-xt-16gb-red-devil-limited-edition-graphics-card-axrx-6800xt-16gbd6-2dhce-oc
+- https://www.ebuyer.com/1134378-asus-radeon-rx-6800-xt-16gb-rog-strix-lc-oc-graphics-card-rog-strix-lc-rx6800xt-o16g-gaming
+- https://www.ebuyer.com/1135765-asrock-radeon-rx-6800-xt-taichi-x-16gb-oc-graphics-card-rx6800xt-tcx-16go
+- https://www.ebuyer.com/1137015-msi-radeon-rx-6800-xt-gaming-x-trio-16gb-graphics-card-rx-6800-xt-gaming-x-trio-16g
+- https://www.ebuyer.com/1134039-sapphire-nitro-radeon-rx-6800-xt-oc-16gb-graphics-card-11304-02-20g
+- https://www.ebuyer.com/1134063-powercolor-radeon-rx-6800-xt-red-dragon-16gb-graphics-card-axrx-6800xt-16gbd6-3dhr-oc
+- https://www.ebuyer.com/1134379-asus-radeon-rx-6800-xt-tuf-gaming-oc-16gb-graphics-card-tuf-rx6800xt-o16g-gaming
+- https://www.ebuyer.com/1135696-xfx-radeon-rx-6800-xt-merc319-black-16gb-graphics-card-rx-68xtacbd9
+- https://www.ebuyer.com/1135766-asrock-radeon-rx-6800-xt-phantom-gaming-d-16gb-oc-graphics-card-rx6800xt-pgd-16go
+- https://www.ebuyer.com/1138786-gigabyte-radeon-rx-6800xt-16gb-aorus-master-graphics-card-gv-r68xtaorus-m-16gd
 ...
