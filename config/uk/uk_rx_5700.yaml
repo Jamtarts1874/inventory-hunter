@@ -1,1 +1,6 @@
+---
+refresh_interval: 2 # seconds
+max_price: 900 # GBP
+urls:
 
+...
