@@ -1,5 +1,5 @@
 --- # 61 MH/S - MSRP £529.99
-refresh_interval: 2 # seconds
+refresh_interval: 0.1 # seconds
 max_price: 900 # GBP
 urls:
 - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-radeon-rx-6800-16-gb-gaming-oc-graphics-card-10219249-pdt.html # £678
