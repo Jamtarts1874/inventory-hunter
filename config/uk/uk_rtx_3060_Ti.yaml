@@ -1,5 +1,5 @@
 ---
-refresh_interval: 0.5 # seconds
+refresh_interval: 0.01 # seconds
 max_price: 600 # GBP
 urls:
   - https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/gigabyte-geforce-rtx-3060-ti-8-gb-gaming-oc-graphics-card-10219305-pdt.html
